@@ -1,4 +1,4 @@
-# Matrices Calculator
+# RREF Matrix Calculator
 
 ## Description
 The program asks for your matrix dimensions, then procedes to solve it using the RREF method.
