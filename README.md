@@ -1,2 +1,2 @@
 # matrix
-matrix calculator
+rref matrix calculator
